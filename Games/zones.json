@@ -78,5 +78,11 @@
     "name": "Baldi Remastered",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Baldi%20Remastered.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Baldi%20Remastered.html"
-  }
+  },
+  {
+    "name": "Ball Blast",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Ball%20Blast.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Ball%20Blast.html"
+  },
+  
 ]
