@@ -163,5 +163,10 @@
    "name": "Corrom Clash",
    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Corrom%20Clash.png",
    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Carrom%20Clash.html"
+  },
+  {
+    "name": "Chess Classic",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Chess%20Classic.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Chess%20Classic.html"
   }
     ]
