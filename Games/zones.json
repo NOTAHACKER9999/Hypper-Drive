@@ -48,5 +48,11 @@
     "name": "Aquapark.io",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Aquapark.io.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Aquapark.io.html"
-  }
+  },
+  {
+    "name": "Archery World Tour",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Archery%20World%20Tour.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Archery%20World%20Tour.html"
+  },
+  
 ]
