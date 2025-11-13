@@ -6,7 +6,12 @@
 },
   {
     "name": "3D Bowling",
-    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/3D%20Bowling.png" 
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/3D%20Bowling.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Bowsmaster.html"
-  }
+  },
+  {
+    "name": "8 Ball Billards Classic",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/8%20Ball%20Billards%20Classic.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/8%20Ball%20Billiards%20Classic.html" 
+  },
 ]
