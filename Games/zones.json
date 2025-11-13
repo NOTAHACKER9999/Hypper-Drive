@@ -153,5 +153,10 @@
     "name": "Buckshot Roulette",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Buckshot%20Roulette.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Buckshot%20Roulette.html"
+  },
+  {
+    "name": "Build a Queen",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Build%20a%20Queen.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Build%20A%20Queen.html"
   }
     ]
