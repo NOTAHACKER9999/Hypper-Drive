@@ -278,5 +278,10 @@
     "name": "Fork N Sausage",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Fork%20N%20Sausage.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Fork%20N%20Sausage.html"
+  },
+  {
+    "name": "Twirk Racer",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Twirk%20Racer%203D.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Twirk%20Racer%203D.html"
   }
 ]
