@@ -308,5 +308,10 @@
     "name": "Fruit Ninja",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Fruits%20Ninja.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Fruits%20Ninja.html"
+  },
+  {
+    "name": "Geometry Dash Lite",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Geometry%20Dash%20Lite.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Geometry%20Dash%20Light.html"
   }
 ]
