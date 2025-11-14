@@ -213,5 +213,10 @@
     "name": "Fnaf 1",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Fnaf.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Fnaf.html"
+  },
+  {
+    "name": "Fnaf Pizza Simulator",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Fnaf%20Pizza%20Simulator.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Fnaf%20Pizza%20Simulator.html"
   }
 ]
