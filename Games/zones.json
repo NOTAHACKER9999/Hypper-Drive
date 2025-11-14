@@ -303,5 +303,10 @@
     "name": "Learn to Fly 3",
    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Learn%20to%20Fly%203.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Learn%20to%20Fly%203.html"
+  },
+  {
+    "name": "Fruit Ninja",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Fruits%20Ninja.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Fruits%20Ninja.html"
   }
 ]
