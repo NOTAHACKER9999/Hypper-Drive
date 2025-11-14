@@ -293,5 +293,10 @@
     "name": "Learn To Fly",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Learn%20to%20Fly.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Learn%20to%20Fly.html"
+  },
+  {
+    "name": "Learn To Fly 2",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Learn%20to%20Fly%202.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Learn%20to%20Fly%202.html"
   }
 ]
