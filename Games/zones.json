@@ -378,5 +378,10 @@
     "name": "A Koopas Revenge 2",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/A%20Koopas%20Revenge%202.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/A%20Koopas%20Revenge%202.html"
+  },
+  {
+    "name": "Alien Hominid",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Alien%20Hominid.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Alien%20Hominid.html"
   }
 ]
