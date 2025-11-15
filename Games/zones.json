@@ -353,5 +353,10 @@
     "name": "Adventure Captalist",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Adventure%20Captalist.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Adventure%20Capitalist.html"
+  },
+  {
+    "name": "Ages Of Conflict",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Age%20of%20Conflict.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Ages%20of%20Conflict.html"
   }
     ]
