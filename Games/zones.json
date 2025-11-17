@@ -603,5 +603,10 @@
     "name": "Basket Slam Dunk 2",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Basket%20Slam%20Dunk.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Basket%20Slam%20Dunk.html"
+  },
+  {
+    "name": "Basketball Legends",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Basketball%20Legends.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Basket%20Ball%20Legends.html"
   }
 ]
