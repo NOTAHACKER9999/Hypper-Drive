@@ -598,5 +598,10 @@
     "name": "Basket Random",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Basket%20Random.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Basket%20Random.html"
+  },
+  {
+    "name": "Basket Slam Dunk",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Basket%20Slam%20Dunk.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Basket%20Slam%20Dunk.html"
   }
 ]
