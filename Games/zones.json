@@ -628,5 +628,10 @@
     "name": "Battle Simulator",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Battle%20Simulator.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Battle%20Simulator.html"
+  },
+  {
+    "name": "Beach Boxing Simulator",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Beach%20Boxing%20Simulator.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Beach%20Boxing%20Simulator.html"
   }
-    ]
+]
