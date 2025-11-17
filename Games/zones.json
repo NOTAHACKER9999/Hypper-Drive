@@ -568,5 +568,10 @@
     "name": "Bandit Gunslinger",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Bandit%20Gun%20Slingers.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Bandit%20Gun%20Slingers.html"
+  },
+  {
+    "name": "Bank Robbery 2",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Bank%20Robbery%202.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Bank%20Robbery%202.html"
   }
 ]
