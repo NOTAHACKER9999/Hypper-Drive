@@ -728,5 +728,10 @@
     "name": "Bob The Robber 2",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Bob%20The%20Robber%202.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Bob%20The%20Robber%202.html"
+  },
+  {
+    "name": "Boom Slingers",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Boom%20Slingers.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Boom%20Slingers.html"
   }
 ]
