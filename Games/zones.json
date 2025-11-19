@@ -693,5 +693,10 @@
     "name": "Blaze Drifters",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Blaze%20Drifters.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Blaze%20Drifters.html"
+  },
+  {
+    "name": "BlightBorne",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/BlightBorne.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/BlightBorne.html"
   }
 ]
