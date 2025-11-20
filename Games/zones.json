@@ -788,5 +788,10 @@
     "name": "Car King Arena",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Car%20King%20Arena.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Car%20King%20Arena.html"
+  },
+  {
+    "name": "Castel Wars Modern",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Castel%20Wars%20Modern.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Castel%20Wars%20Modern.html"
   }
 ]
