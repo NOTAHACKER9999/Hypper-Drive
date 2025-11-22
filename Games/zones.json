@@ -913,5 +913,10 @@
     "name": "Crossy Road",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Crossy%20Road.png",
     "url"  "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Crossy%20Road.html"
+  },
+  {
+    "name": "Cut the Rope",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Cut%20the%20Rope.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Cut%20the%20Rope.html"
   }
 ]
