@@ -923,5 +923,10 @@
     "name": "Cut the Rope: Time Travel",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Cut%20the%20Rope-Time%20Travel.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Cut%20the%20Rope%3A%20Time%20Travel.html"
+  },
+  {
+     "name": "Dawn Tomb",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Dank%20Tomb.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Dawn%20Tomb.html"
   }
 ]
