@@ -983,5 +983,10 @@
     "name": "Double Barrel Sniper",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Double%20Barrel%20Sniper.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Double%20Barrel%20Sniper.html"
+  },
+  {
+    "name": "Draw Climber",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Draw%20Climber.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Draw%20Climber.html"
   }
 ]
