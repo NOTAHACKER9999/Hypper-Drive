@@ -1048,5 +1048,10 @@
     "name": "Dungeon Raid",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Dungeon%20Raid.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Dungeon%20Raid.html"
+  },
+  {
+    "name": "Dungeons & Degenerate Gamblers",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Dungeons%20%26%20Degenerate%20Gamblers.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Dungeons%20%26%20Degenerate%20Gamblers.html"
   }
 ]
