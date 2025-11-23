@@ -953,5 +953,10 @@
     "name": "Die In The Dungeon",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Die%20in%20the%20Dungeon.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Die%20in%20the%20Dungeon.html"
+  },
+  {
+    "name": "Dire Decks",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Dire%20Decks.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Dire%20Decks.html"
   }
 ]
