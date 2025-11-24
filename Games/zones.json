@@ -1108,5 +1108,10 @@
     "name": "Escape Road 2",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Escape%20Road%202.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Escape%20Road%202.html"
+  },
+  {
+    "name": "Evil Glitch",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Evil%20Glitch.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Evil%20Glitch.html"
   }
 ]
