@@ -1228,5 +1228,10 @@
     "name": "Funny Shooter 2",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Funny%20Shooter%202.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Funny%20Shooter%202.html"
+  },
+  {
+    "name": "Generic Fighter Maybe",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Generic%20Fighter%20Maybe.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Generic%20Fighting%20Maybe.html"
   }
 ]
