@@ -1203,5 +1203,10 @@
     "name": "Freegemas",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Freegemas.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Freegemas.html"
+  },
+  {
+    "name": "From Rust To Ash",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/From%20Rust%20To%20Ash.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/From%20Rust%20To%20Ash.html"
   }
 ]
