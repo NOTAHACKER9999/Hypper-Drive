@@ -1288,5 +1288,10 @@
     "name": "Gold Digger FRVR",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Gold%20Digger%20FRVR.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Gold%20Digger%20FRVR.html"
+  },
+  {
+    "name": "Gold Miner",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Gold%20Miner.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Gold%20Miner.html"
   }
 ]
