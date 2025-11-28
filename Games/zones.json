@@ -1308,5 +1308,10 @@
     "name": "Google Dino",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Google%20Dino.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Google%20Dino.html"
+  },
+  {
+    "name": "Grand Action Simulator: New York",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Grand%20Action%20Sim-ny.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Grand%20Action%20Sim-ny.html"
   }
 ]
