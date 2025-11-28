@@ -1398,5 +1398,10 @@
     "name": "Handulum",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Handulum.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Handulum.html"
+  },
+  {
+    "name": "Hanger 2",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Hanger%202.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Hanger%202.html"
   }
 ]
