@@ -1443,5 +1443,10 @@
     "name": "HELP NO BRAKE",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/HELP%20NO%20BRAKE.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/HELP%20NO%20BRAKE.html"
+  },
+  {
+    "name": "Hero 3",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Hero%203.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Hero%203.html"
   }
 ]
