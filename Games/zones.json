@@ -1468,5 +1468,10 @@
     "name": "Highway Racer 2",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Highway%20Racer%202.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Highway%20Racer%202.html"
+  },
+  {
+    "name": "Hill Climb Racing Lite",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Hill%20Climb%20Racing%20Lite.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Hill%20Climb%20Racing%20Lite.html"
   }
 ]
