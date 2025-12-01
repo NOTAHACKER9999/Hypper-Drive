@@ -1488,5 +1488,10 @@
     "name": "House of Hazards",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/House%20Of%20Hazards.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/House%20Of%20Hazards.html"
+  },
+  {
+    "name": "Hover Racer Drive",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Hover%20Racer%20Drive.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Hover%20Racer%20Drive.html"
   }
 ]
