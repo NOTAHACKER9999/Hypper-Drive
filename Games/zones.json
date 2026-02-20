@@ -1538,5 +1538,10 @@
     "name": "Hide N Seek",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Hide%20N%20Seek.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Hide%20N%20Seek.html"
+  },
+  {
+    "name": "Magic Tiles 3",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Magic%20Tiles%203.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Magic%20Tiles%203.html"
   }
 ]
