@@ -1508,5 +1508,10 @@
     "name": "Ice Dodo",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Ice%20Dodo.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Ice%20Dodo.html"
+  },
+  {
+    "name": "Jetpack Joyride",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Jetpack%20Joyride.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Jetpack%20Joyride.html"
   }
 ]
