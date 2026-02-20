@@ -1513,5 +1513,10 @@
     "name": "Jetpack Joyride",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Jetpack%20Joyride.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Jetpack%20Joyride.html"
+  },
+  {
+    "name": "Friday Night Funkin",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Friday%20Night%20Funkin.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Friday%20Night%20Funkin.html"
   }
 ]
