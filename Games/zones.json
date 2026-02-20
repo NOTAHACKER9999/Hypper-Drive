@@ -1548,5 +1548,10 @@
     "name": "Stacky Dash",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Stacky%20Dash.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Stacky%20Dash.html"
+  },
+  {
+    "name": "Supreme Duelist",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Supreme%20Duelist.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Supreme%20Duelist.html"
   }
 ]
