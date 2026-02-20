@@ -1533,5 +1533,10 @@
     "name": "Stickman Hook",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Stickman%20Hook.png"
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Stickman%20Hook.html"
+  },
+  {
+    "name": "Hide N Seek",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Hide%20N%20Seek.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Hide%20N%20Seek.html"
   }
 ]
