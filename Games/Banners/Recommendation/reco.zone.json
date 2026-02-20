@@ -14,5 +14,13 @@
     "banner-vid": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/Banners/Recommendation/BM/BM-banner.gif",
     "banner-vid-size": "320,180",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Bowsmaster.html"
+  },
+  {
+    "name": "Buckshot Roulette",
+    "banner-static": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/Banners/Recommendation/BuckS/BuckS.jpg",
+    "banner-static-size": "400,187",
+    "banner-vid": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/Banners/Recommendation/BuckS/BuckS.gif",
+    "banner-vid-size": "480,270",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Buckshot%20Roulette.html"
   }
 ]
