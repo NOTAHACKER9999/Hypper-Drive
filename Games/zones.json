@@ -1558,5 +1558,10 @@
     "name": "Tall Man Run",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Tall%20Man%20Run.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Tall%20Man%20Run.html"
+  },
+  {
+    "name": "Car Chaos",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Car%20Chaos.jpg",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Car%20Chaos.html"
   }
 ]
