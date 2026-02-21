@@ -22,5 +22,13 @@
     "banner-vid": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/Banners/Recommendation/BuckS/BuckS.gif",
     "banner-vid-size": "480,270",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Buckshot%20Roulette.html"
+  },
+  {
+    "name": "Time Shooter 3",
+    "banner-static": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/Banners/Recommendation/TS3/TS3-banner.jpg",
+    "banner-static-size": "1280,720",
+    "banner-vid": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/Banners/Recommendation/TS3/TS3-banner.gif",
+    "banner-vid-size": "400,225",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Time%20Shooter%203D.html"
   }
 ]
