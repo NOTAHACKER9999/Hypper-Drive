@@ -1598,5 +1598,10 @@
     "name": "Ragdoll Hit",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Ragdoll%20Hit.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Ragdoll%20Hit.html"
+  },
+  {
+    "name": "Time Shooter 3",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Time%20Shooter%203D.jpg",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Time%20Shooter%203D.html"
   }
 ]
