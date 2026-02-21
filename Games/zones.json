@@ -1593,5 +1593,10 @@
     "name": "Road of Fury",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Road%20of%20Fury.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Road%20of%20Fury.html"
+  },
+  {
+    "name": "Ragdoll Hit",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Ragdoll%20Hit.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Ragdoll%20Hit.html"
   }
 ]
