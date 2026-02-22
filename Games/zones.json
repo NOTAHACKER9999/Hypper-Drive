@@ -1768,5 +1768,10 @@
     "name": "The World's Hardest Game 3",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/The%20World's%20Hardest%20Game.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/The%20World's%20Hardest%20Game.html"
+  },
+  {
+    "name": "The World's Hardest Game",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/The%20World's%20Hardest%20Game1.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/The%20World's%20Hardest%20Game1.html"
   }
 ]
