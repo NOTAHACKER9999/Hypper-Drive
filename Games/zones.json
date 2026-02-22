@@ -1778,5 +1778,10 @@
     "name": "The World's Hardest Game 4",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/The%20World's%20Hardest%20Game%204.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/The%20World's%20Hardest%20Game%204.html"
+  },
+  {
+    "name": "This is The Only Level",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/This%20is%20the%20only%20level.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/This%20is%20the%20Only%20Level.html"
   }
 ]
