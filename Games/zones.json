@@ -1673,5 +1673,10 @@
     "name": "1v1 lol",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/1v1%20lol.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/1v1%20lol.html"
+  },
+  {
+    "name": "A Dance of Fire and Ice",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/A%20Dance%20of%20Fire%20and%20Ice.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/A%20Dance%20of%20Fire%20and%20Ice.html"
   }
 ]
