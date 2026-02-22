@@ -1753,5 +1753,10 @@
     "name": "Moto X3M Spooky",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Moto%20X3M%20Spooky.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Moto%20X3M%20Spooky.html"
+  },
+  {
+    "name": "Moto X3M Winter",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Moto%20X3M%20Winter.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Moto%20X3M%20Winter.html"
   }
 ]
