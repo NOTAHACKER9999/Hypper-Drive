@@ -1793,5 +1793,10 @@
     "name": "Tiny Fishing",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Tiny%20Fishing.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Tiny%20FIshing.html"
+  },
+  {
+    "name": "Tomb of The Mask",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Tomb%20of%20the%20Mask.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Tomb%20of%20The%20Mask.html"
   }
 ]
