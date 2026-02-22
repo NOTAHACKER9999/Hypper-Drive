@@ -30,5 +30,13 @@
     "banner-vid": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/Banners/Recommendation/TS3/TS3-banner.gif",
     "banner-vid-size": "400,225",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Time%20Shooter%203D.html"
+  },
+  {
+    "name": "Moto X3M",
+    "banner-static": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/Banners/Recommendation/MX3M/MX3M-banner.jpg",
+    "banner-static-size": "1280,720",
+    "banner-vid": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/Banners/Recommendation/MX3M/MX3M-banner.gif",
+    "banner-vid-size": "400,225",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Moto%20X3M.html"
   }
 ]
