@@ -1798,5 +1798,10 @@
     "name": "Tomb of The Mask",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Tomb%20of%20the%20Mask.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Tomb%20of%20The%20Mask.html"
+  },
+  {
+    "name": "Toss The Turtle",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Toss%20The%20Turtle.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Toss%20The%20Turtle.html"
   }
 ]
