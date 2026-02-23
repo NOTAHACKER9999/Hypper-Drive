@@ -1828,5 +1828,10 @@
     "name": "Offroad Mountain Bike",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Offroad%20Mountain%20Bike.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Offroad%20Mounain%20Bike.html"
+  },
+  {
+    "name": "Space Waves",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Space%20Waves.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Space%20Waves.html"
   }
 ]
