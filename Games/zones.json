@@ -1818,5 +1818,10 @@
     "name": "2048",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/2048.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/2048.html"
+  },
+  {
+    "name": "8 Ball Pool",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/8%20Ball%20Pool.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/8%20Ball%20Pool.html"
   }
 ]
