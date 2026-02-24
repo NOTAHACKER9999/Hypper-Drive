@@ -1903,5 +1903,10 @@
     "name": "Tower Crash 3D",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Tower%20Crash%203D.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Tower%20Crash%203D.html"
+  },
+  {
+    "name": "Trivia Crack",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Trivia%20Crack.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Trivia%20Crack.html"
   }
 ]
