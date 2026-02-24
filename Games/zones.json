@@ -1873,5 +1873,10 @@
     "name": "osu!",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/osu!.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/osu!.html"
+  },
+  {
+    "name": "Guess Their Answer",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Guess%20Thier%20Answer.png",
+    "url": "https://github.com/NOTAHACKER9999/Hypper-Drive/blob/main/Games/HTML/Guess%20Their%20Answer.html"
   }
 ]
