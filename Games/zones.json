@@ -1963,5 +1963,10 @@
     "name": "Papers, Please",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papers%2C%20Please.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Papers%2C%20Please.html"
+  },
+  {
+    "name": "Scrap Metal 3",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Scrap%20Metal%203.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Scrap%20Metal%203.html"
   }
 ]
