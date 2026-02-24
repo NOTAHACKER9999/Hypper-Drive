@@ -1878,5 +1878,10 @@
     "name": "Guess Their Answer",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Guess%20Thier%20Answer.png",
     "url": "https://github.com/NOTAHACKER9999/Hypper-Drive/blob/main/Games/HTML/Guess%20Their%20Answer.html"
+  },
+  {
+    "name": "Pac-Man: Superfast",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Pac-Man%20Superfast.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Pac-Man%3ASuperfast.html"
   }
 ]
