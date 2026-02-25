@@ -2028,5 +2028,10 @@
     "name": "Rolly Vortex",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Rolly%20Vortex.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Rolly%20Vortex.html"
+  },
+  {
+    "name": "Draw The Hill",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Draw%20the%20Hill.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Draw%20the%20Hill.html"
   }
 ]
