@@ -2033,5 +2033,10 @@
     "name": "Draw The Hill",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Draw%20the%20Hill.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Draw%20the%20Hill.html"
+  },
+  {
+    "name": "Dragon VS Bricks",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Dragon%20VS%20Bricks.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Dragon%20VS%20Bricks.html"
   }
 ]
