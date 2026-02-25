@@ -2058,5 +2058,10 @@
     "name": "Thats Not My Neighbor",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Thats%20not%20my%20neighbor.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Thats%20Not%20My%20Neighbor.html"
+  },
+  {
+    "name": "Hotline Miami",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Hotline%20Miami.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Hotline%20Miami.html"
   }
 ]
