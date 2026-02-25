@@ -2013,5 +2013,10 @@
     "name": "FNAW",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Five%20Nights%20at%20Wiston's.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Five%20Nights%20at%20Winston's.html"
+  },
+  {
+    "name": "Tunnel Rush",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Tunnel%20Rush.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Tunnel%20Rush.html"
   }
 ]
