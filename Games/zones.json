@@ -2068,5 +2068,10 @@
     "name": "Papa's Bakeria",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papa's%20Bakeria.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Papa's%20Bakeria.html"
+  },
+  {
+    "name": "Papa's Burgeria",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papa's%20Burgeria.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Papa's%20Burgeria.html"
   }
 ]
