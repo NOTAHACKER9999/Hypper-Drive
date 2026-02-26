@@ -2088,5 +2088,10 @@
     "name": "Papa's Donuteria",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papa's%20Donuteria.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Papa's%20Donuteria.html"
+  },
+  {
+    "name": "Papa's Freezeria",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papa's%20Freezeria.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Papa's%20Freezeria.html"
   }
 ]
