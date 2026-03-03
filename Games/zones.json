@@ -2104,7 +2104,7 @@
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papa's%20Pancakeria.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Papa's%20Pancakeria.html"
   },
-  {
+  { Su
     "name": "Papa's Pastaria",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papa's%20Pastaria.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Papa's%20Pastaria.html"
@@ -2118,5 +2118,10 @@
     "name": "Papa's Scooperia",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papa's%20Scooperia.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Papa's%20Scooperia.html"
+  },
+  {
+    "name": "Papa's Sushiria",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papa's%20Sushiria.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Papa's%20Sushiria.html"
   }
 ]
