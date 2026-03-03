@@ -2128,5 +2128,10 @@
     "name": "Papa's Taco Mia",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papa's%20Taco%20Mia.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Papa's%20Taco%20Mia.html"
+  },
+  {
+    "name": "Papa's Wingeria",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papa's%20Wingeria.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Papa's%20WIngeria.html"
   }
 ]
