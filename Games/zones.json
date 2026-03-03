@@ -2113,5 +2113,10 @@
     "name": "Papa's Pizzeria",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papa's%20Pizzeria.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Papa's%20Pizzeria.html"
+  },
+  {
+    "name": "Papa's Scooperia",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papa's%20Scooperia.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Papa's%20Scooperia.html"
   }
 ]
