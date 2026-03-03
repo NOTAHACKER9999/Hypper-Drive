@@ -2098,5 +2098,10 @@
     "name": "Papa's Hot Doggeria",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papa's%20Hot%20Doggeria.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Papa's%20Hot%20Doggeria.html"
+  },
+  {
+    "name": "Papa's Pancakeria",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Papa's%20Pancakeria.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/Papa's%20Pancakeria.html"
   }
 ]
