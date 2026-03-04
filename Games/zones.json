@@ -2243,5 +2243,10 @@
     "name": "Wheely 8",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Wheely%208.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Wheely%208.html"
+  },
+  {
+    "name": "Crazy Kitten 3D",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Crazy%20Kitty%203D.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Crazy%20Kitty%203D.html"
   }
 ]
