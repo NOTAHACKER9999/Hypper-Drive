@@ -2198,5 +2198,10 @@
     "name": "Red Ball 4 Vol 3",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Red%20Ball%204%20Vol%203.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Red%20Ball%204%20Vol%203.html"
+  },
+  {
+    "name": "Wheely",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Wheely.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Wheely.html"
   }
 ]
