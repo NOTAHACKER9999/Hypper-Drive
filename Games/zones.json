@@ -2253,5 +2253,10 @@
     "name": "A Bite at Freddy's",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/A%20Bite%20at%20Freddy's.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/A%20Bite%20at%20Freddy's.html"
+  },
+  {
+    "name": "RE:RUN",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/RE%20RUN.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/RE%3ARUN.html"
   }
 ]
