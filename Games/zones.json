@@ -2373,5 +2373,10 @@
     "name": "Riddle Transfer 2",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Riddle%20Transfer%202.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Riddle%20Transfer%202.html"
+  },
+  {
+    "name": "Idle Dice",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Idle%20Dice.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Idle%20Dice.html"
   }
 ]
