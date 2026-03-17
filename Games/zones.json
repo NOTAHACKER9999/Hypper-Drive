@@ -2403,5 +2403,10 @@
     "name": "Banjo Kazooie",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Banjo%20Kazooie.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Banjo%20Kazooie.html"
+  },
+  {
+    "name": "Banjo Tooie",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Banjo%20Tooie.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Banjo%20Tooie.html"
   }
 ]
