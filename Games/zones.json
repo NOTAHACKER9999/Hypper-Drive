@@ -2418,5 +2418,10 @@
     "name": "Super Mario 64",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Super%20Mario%2064.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Super%20Mario%2064.html"
+  },
+  {
+    "name": "The Legend of Zelda: Majora's Mask",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/The%20Legend%20of%20Zelda-%20Majora's%20Mask.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/The%20Legend%20of%20Zelda%3A%20Majora's%20Mask.html"
   }
 ]
