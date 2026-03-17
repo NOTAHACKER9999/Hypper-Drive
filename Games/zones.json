@@ -2393,5 +2393,10 @@
     "name": "1080 Snowboarding",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/1080%20Snowboarding.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/1080%20Snowboarding.html"
+  },
+  {
+    "name": "A Bugs Life",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/A%20Bugs%20Life.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/A%20Bugs%20Life.html"
   }
 ]
