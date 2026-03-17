@@ -2398,5 +2398,10 @@
     "name": "A Bugs Life",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/A%20Bugs%20Life.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/A%20Bugs%20Life.html"
+  },
+  {
+    "name": "Banjo Kazooie",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Banjo%20Kazooie.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Banjo%20Kazooie.html"
   }
 ]
