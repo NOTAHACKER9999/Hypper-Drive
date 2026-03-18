@@ -2463,6 +2463,10 @@
     "name": "Diddy Kong Racing", 
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Diddy%20Kong%20Racing.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Diddy%20Kong%20Racing.html"
+  },
+  {
+    "name": "Disney's Tarzan",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Disney's%20Tarzan.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Disney's%20Tarzan.html"
   }
-    
 ]
