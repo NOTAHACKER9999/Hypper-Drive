@@ -2488,5 +2488,10 @@
     "name": "Dr. Mario",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Dr.%20Mario%2064.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Dr.%20Mario%2064.html"
+  },
+  {
+    "name": "Duke Nukem",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Duke%20Nukem%2064.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Duke%20Nukem%2064.html"
   }
 ]
