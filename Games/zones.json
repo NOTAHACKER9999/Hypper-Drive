@@ -2543,5 +2543,10 @@
     "name": "Kirby 64: The Crystal Shards",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Kirby%2064-%20The%20Crystal%20Shards.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Kirby%2064%3A%20The%20Crystal%20Shards.html"
+  },
+  {
+    "name": "LEGO Racers",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/LEGO%20Racers.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/LEGO%20Racers.html"
   }
 ]
