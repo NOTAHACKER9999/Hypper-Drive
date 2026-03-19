@@ -2533,5 +2533,10 @@
     "name": "Hot Wheels",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Hot%20Wheels-%20Turbo%20Racing.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Hot%20Wheels%3A%20Turbo%20Racing.html"
+  },
+  {
+    "name": "Jet Force Gemini",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Jet%20Force%20Gemini.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Jet%20Force%20Gemini.html"
   }
 ]
