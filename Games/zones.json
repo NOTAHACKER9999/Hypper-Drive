@@ -2500,8 +2500,13 @@
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Earthworm%20Jim%203D.html"
   },
   {
-    "name": "Excitebike 64".
+    "name": "Excitebike 64",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Excitebike%2064.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Excitebike%2064.html"
+  },
+  {
+    "name": "F-Zero X",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/F-Zero%20X.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/F-Zero%20X.html"
   }
 ]
