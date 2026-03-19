@@ -2528,5 +2528,10 @@
     "name": "GoldenEye",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/GoldenEye%20007.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/GoldenEye%20007.html"
+  },
+  {
+    "name": "Hot Wheels",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Hot%20Wheels-%20Turbo%20Racing.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Hot%20Wheels%3A%20Turbo%20Racing.html"
   }
 ]
