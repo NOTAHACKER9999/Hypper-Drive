@@ -2518,5 +2518,10 @@
     "name": "Gauntlet Legends",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Gauntlet%20Legends.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Gauntlet%20Legends.html"
+  },
+  {
+    "name": "Gex 64: Enter the Gecko",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Gex%2064-Enter%20The%20Gecko.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Gex%2064%3A%20Enter%20The%20Gecko.html"
   }
 ]
