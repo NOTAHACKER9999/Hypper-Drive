@@ -2523,5 +2523,10 @@
     "name": "Gex 64: Enter the Gecko",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Gex%2064-Enter%20The%20Gecko.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Gex%2064%3A%20Enter%20The%20Gecko.html"
+  },
+  {
+    "name": "GoldenEye",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/GoldenEye%20007.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/GoldenEye%20007.html"
   }
 ]
