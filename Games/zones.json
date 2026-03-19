@@ -2583,5 +2583,10 @@
     "name": "Mega Man 64",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Mega%20Man%2064.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Mega%20Man%2064.html"
+  },
+  {
+    "name": "Mickey's Speedway USA",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Mickey's%20Speedway%20USA.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Mickey's%20Speedway%20USA.html"
   }
 ]
