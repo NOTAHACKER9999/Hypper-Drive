@@ -2618,5 +2618,10 @@
     "name": "Perfect Dark",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Perfect%20Dark.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Perfect%20Dark.html"
+  },
+  {
+    "name": "Hollow Knight Silksong",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Hollow%20Knight%20Silksong.jpg",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/SIlksong.html"
   }
 ]
