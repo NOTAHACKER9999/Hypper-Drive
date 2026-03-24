@@ -2633,5 +2633,10 @@
     "name": "Pokemon Statium 2",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Pokemon%20Stadium%202.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Pokemon%20Stadium%202.html"
+  },
+  {
+    "name": "Pokemon Statium",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Pokemon%20Stadium.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Pokemon%20Stadium.html"
   }
 ]
