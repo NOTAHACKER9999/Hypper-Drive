@@ -2623,5 +2623,10 @@
     "name": "Hollow Knight Silksong",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Hollow%20Knight%20Silksong.jpg",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/SIlksong.html"
+  },
+  {
+    "name": "Pokemon Snap",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Pokemon%20Snap.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Pokemon%20Snap.html"
   }
 ]
