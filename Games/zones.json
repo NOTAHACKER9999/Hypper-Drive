@@ -2608,5 +2608,10 @@
     "name": "Mortal Kombat Trilogy",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Mortal%20Kombat%20Trilogy.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Mortal%20Kombat%20Trilogy.html"
+  },
+  {
+    "name": "Paper Mario",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Paper%20Mario.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Paper%20Mario.html"
   }
 ]
