@@ -2663,5 +2663,10 @@
     "name": "Rampage: World Tour",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Rampage-%20World%20Tour.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Rampage%3A%20World%20Tour.html"
+  },
+  {
+    "name": "Kirby's Dream Land 2",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Kirby's%20Dream%20Land%202.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Kirby's%20Dream%20Land%202.html"
   }
 ]
