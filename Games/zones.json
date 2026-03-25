@@ -2668,5 +2668,10 @@
     "name": "Kirby's Dream Land 2",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Kirby's%20Dream%20Land%202.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Kirby's%20Dream%20Land%202.html"
+  },
+  {
+    "name": "The Legend of Zelda: Links Awakening",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Legend%20of%20Zelda-%20Links%20Awakening.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/The%20Legend%20of%20Zelda%3A%20Link's%20Awakening.html"
   }
 ]
