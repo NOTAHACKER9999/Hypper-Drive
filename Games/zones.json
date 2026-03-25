@@ -2658,5 +2658,10 @@
     "name": "Rampage 2: Universal Tour",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Rampage%202-%20Universal%20Tour.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Rampage%202%3A%20Universal%20Tour.html"
+  },
+  {
+    "name": "Rampage: World Tour",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Rampage-%20World%20Tour.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Rampage%3A%20World%20Tour.html"
   }
 ]
