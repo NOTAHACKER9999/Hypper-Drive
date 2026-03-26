@@ -2713,5 +2713,10 @@
     "name": "Metal Slug: 2nd Mission",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Metal%20Slug-%202nd%20Mission.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Metal%20Slug%3A%202nd%20Mission.html"
+  },
+  {
+    "name": "Ace Combat 2",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Ace%20Combat%202.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Ace%20Combat%202.html"
   }
 ]
