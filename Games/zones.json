@@ -2728,5 +2728,10 @@
     "name": "Cool Boarders",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Cool%20Boarders.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Cool%20Boarders.html"
+  },
+  {
+    "name": "Crash Bandicoot",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Crash%20Bandicoot.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Crash%20Bandicoot.html"
   }
 ]
