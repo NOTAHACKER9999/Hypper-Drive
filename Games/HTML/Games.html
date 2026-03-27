@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="/curser/curser.css">
+<title>Games</title>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
+
+<style>
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  width: 100%;
+  min-height: 100%;
+  font-family: 'Orbitron', sans-serif;
+  background: #0a0a0a;
+  color: #fff;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.container {
+  width: 100%;
+  padding: 20px;
+}
+
+h1 {
+  margin: 20px 0 10px;
+  color: #ff1a1a;
+}
+
+#search-bar {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  border: 2px solid #ff1a1a;
+  background: #1a1a1a;
+  color: #fff;
+  margin-bottom: 25px;
+}
+
+.games-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 180px);
+  gap: 15px;
+}
+
+.game-card {
+  width: 180px;
+  cursor: pointer;
+  border-radius: 10px;
+  border: 2px solid #ff1a1a;
+  background: #111;
+  transition: 0.25s;
+}
+
+.game-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 18px rgba(255, 26, 26, 0.35);
+}
+
+.game-card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+.game-name {
+  padding: 10px;
+  text-align: center;
+  font-size: 13px;
+}
+
+.empty-text {
+  color: #aaa;
+}
+
+.hidden { display: none !important; }
+
+/* ===== POPUP ===== */
+#game-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.85);
+  backdrop-filter: blur(6px);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+#popup-content {
+  width: 90%;
+  height: 90%;
+  border: 2px solid #ff1a1a;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #000;
+  position: relative;
+}
+
+#popup-content iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+#close-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #ff1a1a;
+  border: none;
+  color: #fff;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 6px;
+  z-index: 2;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+  <h1>Recently Played</h1>
+  <div class="games-grid" id="recently-played"></div>
+  <div class="empty-text" id="recent-empty">No recently played games yet.</div>
+
+  <h1>Search Games</h1>
+  <input type="text" id="search-bar" placeholder="Search games...">
+
+  <h1>All Games</h1>
+  <div class="games-grid" id="games-grid"></div>
+</div>
+
+<!-- POPUP -->
+<div id="game-popup">
+  <div id="popup-content">
+    <button id="close-btn">Close</button>
+    <iframe id="game-frame"></iframe>
+  </div>
+</div>
+
+<script>
+let allGames = [];
+let gameCards = [];
+
+/* ===== RECENT ===== */
+function getRecentlyPlayed() {
+  return JSON.parse(localStorage.getItem('recentlyPlayed') || '[]');
+}
+
+function addRecentlyPlayed(game) {
+  let recent = getRecentlyPlayed();
+  recent = recent.filter(g => g.name !== game.name);
+  recent.unshift(game);
+  if (recent.length > 10) recent = recent.slice(0, 10);
+  localStorage.setItem('recentlyPlayed', JSON.stringify(recent));
+}
+
+function displayRecentlyPlayed() {
+  const container = document.getElementById('recently-played');
+  const empty = document.getElementById('recent-empty');
+  const recent = getRecentlyPlayed();
+
+  container.innerHTML = '';
+
+  if (!recent.length) {
+    empty.style.display = 'block';
+    return;
+  }
+
+  empty.style.display = 'none';
+
+  recent.forEach(game => {
+    const card = createGameCard(game);
+    container.appendChild(card);
+  });
+}
+
+/* ===== SAFE HTML ===== */
+function escapeHtml(text) {
+  return String(text).replace(/[&<>"']/g, m => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;',
+    '"': '&quot;', "'": '&#39;'
+  })[m]);
+}
+
+/* ===== POPUP OPEN ===== */
+function openGame(url, name, cover) {
+  addRecentlyPlayed({ name, url, cover });
+  displayRecentlyPlayed();
+
+  const popup = document.getElementById('game-popup');
+  const frame = document.getElementById('game-frame');
+
+  frame.src = url;
+  popup.style.display = 'flex';
+}
+
+/* ===== CLOSE ===== */
+document.getElementById('close-btn').onclick = () => {
+  document.getElementById('game-popup').style.display = 'none';
+  document.getElementById('game-frame').src = '';
+};
+
+/* click outside to close */
+document.getElementById('game-popup').addEventListener('click', (e) => {
+  if (e.target.id === 'game-popup') {
+    document.getElementById('close-btn').click();
+  }
+});
+
+/* ===== LOAD GAMES ===== */
+async function loadGames() {
+  try {
+    const res = await fetch('https://hypper-drive-api.vercel.app/api/games');
+    const data = await res.json();
+    allGames = data.data || [];
+    buildGamesGrid(allGames);
+  } catch (err) {
+    console.error(err);
+  }
+}
+
+function createGameCard(game) {
+  const card = document.createElement('div');
+  card.className = 'game-card';
+  card.dataset.search = (game.name || '').toLowerCase();
+
+  card.innerHTML = `
+    <img src="${game.cover}">
+    <div class="game-name">${escapeHtml(game.name)}</div>
+  `;
+
+  card.onclick = () => openGame(game.url, game.name, game.cover);
+  return card;
+}
+
+function buildGamesGrid(games) {
+  const grid = document.getElementById('games-grid');
+  grid.innerHTML = '';
+  gameCards = [];
+
+  games.forEach(game => {
+    const card = createGameCard(game);
+    gameCards.push(card);
+    grid.appendChild(card);
+  });
+}
+
+/* ===== SEARCH ===== */
+function filterGames(value) {
+  const search = value.toLowerCase();
+
+  gameCards.forEach(card => {
+    card.classList.toggle('hidden', !card.dataset.search.includes(search));
+  });
+}
+
+document.getElementById('search-bar').addEventListener('input', e => {
+  filterGames(e.target.value);
+});
+
+/* INIT */
+loadGames();
+displayRecentlyPlayed();
+</script>
+
+</body>
+</html>
