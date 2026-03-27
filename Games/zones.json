@@ -2753,5 +2753,10 @@
     "name": "Sonic R",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Sonic%20R.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Sonic%20R.html"
+  },
+  {
+    "name": "Sonic The Hegdehog",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Sonic%20The%20Hedgehog.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Sonic%20The%20Hedgehog.html"
   }
 ]
