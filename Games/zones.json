@@ -2793,5 +2793,10 @@
     "name": "Nazi Zombies: Portable",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Nazi%20Zombies-%20Portable.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Nazi%20Zombies%3A%20Portable.html"
+  },
+  {
+    "name": "Sandboxels",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Sandboxels.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Sandboxels.html"
   }
 ]
