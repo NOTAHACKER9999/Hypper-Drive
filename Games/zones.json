@@ -2813,5 +2813,10 @@
     "name": "Minesweeper Mania",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Minesweeper%20Mania.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Minesweeper%20Mania.html"
+  },
+  {
+    "name": "Super Mario 63",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Super%20Mario%2063.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Super%20Mario%2063.html"
   }
 ]
