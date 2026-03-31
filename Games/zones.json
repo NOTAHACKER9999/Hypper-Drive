@@ -2818,5 +2818,10 @@
     "name": "Super Mario 63",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Super%20Mario%2063.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Super%20Mario%2063.html"
+  },
+  {
+    "name": "Jelly Mario",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Jelly%20Mario.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Jelly%20Mario.html"
   }
 ]
