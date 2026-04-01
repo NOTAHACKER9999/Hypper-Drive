@@ -2843,5 +2843,10 @@
     "name": "Sushi Roll",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Sushi%20Roll.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Sushi%20Roll.html"
+  },
+  {
+    "name": "Maze Speedrun",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Maze%20Speedrun.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Maze%20Speedrun.html"
   }
 ]
