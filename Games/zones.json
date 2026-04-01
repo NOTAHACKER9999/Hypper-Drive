@@ -2848,5 +2848,10 @@
     "name": "Maze Speedrun",
     "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Maze%20Speedrun.png",
     "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Maze%20Speedrun.html"
+  },
+  {
+    "name": "Kitchen Bazar",
+    "cover": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/ICONS/Kitchen%20Bazar.png",
+    "url": "https://raw.githubusercontent.com/NOTAHACKER9999/Hypper-Drive/refs/heads/main/Games/HTML/Kitchen%20Bazar.html"
   }
 ]
